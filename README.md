@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring to become a software developer with a strong focus on learning and growth. I'm passionate about exploring new technologies, building innovative solutions, and continuously improving my skills to solve real-world challenges.
 
 * 🌍  I'm based in Stuttgart, Germany
-* ✉️  You can contact me at [masinovicminela@gmail.com](mailto:masinovicminela@gmail.com)
+* ✉️  You can contact me at [minelam.dev@gmail.com](mailto:minelam.dev@gmail.com)
 * 🧠  I'm learning TypeScript and Vue.js
 
 <a href="https://www.github.com/minelica" target="_blank" rel="noreferrer"><img
